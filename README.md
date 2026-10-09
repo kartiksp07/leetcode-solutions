@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/kartiksp07/leetcode-solutions/tree/master/0134-gas-station) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/kartiksp07/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
