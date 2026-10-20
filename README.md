@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/kartiksp07/leetcode-solutions/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/kartiksp07/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/kartiksp07/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/kartiksp07/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/kartiksp07/leetcode-solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
